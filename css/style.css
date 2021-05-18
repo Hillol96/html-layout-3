@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+}
+.header{
+    height: 100px;
+    background-color: blueviolet;
+    text-align: center;
+    
+}
+.nav{
+    height: 100%;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    width: 60%;
+    background-color: cornsilk;
+    height: 400px;
+    text-align: center;
+    float: left;
+}
+.right{
+    width: 40%;
+    background-color: darkorange;
+    height: 400px;
+    text-align: center;
+    float: right;
+}
+.footer{
+    height: 150px;
+    background-color: firebrick;
+    text-align: center;
+}
